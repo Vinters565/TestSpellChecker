@@ -79,6 +79,6 @@ ignore$
 \.xpm$
 \.xz$
 \.zip$
-
+^\.obsidian/
 ^\.github/actions/spelling/
 ^\Q.github/workflows/spelling.yml\E$
